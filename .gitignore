@@ -1,0 +1,6 @@
+# IDE
+.idea
+
+# Generated files
+gen-java
+gen-nodejs
